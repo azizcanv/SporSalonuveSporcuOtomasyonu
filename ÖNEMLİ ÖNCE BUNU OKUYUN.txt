@@ -1,0 +1,5 @@
+sporsalonuDb ve sporsalonuDb_log'u 'Bu Bilgisayar'da bulunan 'Belgeler' içine kopyalarsanız database visual studioda gözükecektir.
+Ondan sonra form sayfalarında bulunan SqlConnection kısmına kendi bilgisayarınızdaki database bağlantı yolunuzu girmeniz gerekiyor.
+Bağlantı yoluna da artık visual studioda server explorer kısmında bulunan sporsalonuDb'ye sağ tıklayıp özellikler dedikten sonra sağ alttan bağlantı yolu yazan yerden ulaşabilirsiniz.
+
+*Uygulama giriş penceresinde kullanıcı adı='admin' şifre='123456'dır.
